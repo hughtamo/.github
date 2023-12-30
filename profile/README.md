@@ -37,7 +37,8 @@
 <br>
 
 ## 🛠️ 사용 기술
-
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
 
