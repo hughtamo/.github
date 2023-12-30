@@ -8,6 +8,9 @@
 </p>
 <br>
 
+## 💻 시연 영상 (업로드 예정)
+<img src="https://github.com/hughtamo/.github/assets/101869611/6475dee0-9a83-4ce5-aa56-8d9019a5fd3d">
+
 ## 👩‍👩‍👧‍👦 팀원 구성
 <table>
   <tbody>
